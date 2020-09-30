@@ -40,7 +40,6 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 * Leal Pérez, Andrea
 * Llopis Alejandre, Eva
 * Maciá García, Laura
-* Maciá García, Laura
 * Rovira Mengual, Josep
 * Torrecillas Garrido, Marina
 * Vicedo Rovira, Andreu
