@@ -59,7 +59,7 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 ## Projectes a realitzar
 
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Anàlisis d'un lloc web</li>
+  <li>Creació del contingut estructura i maquetació d'un lloc web</li>
+  <li>Disseny UX i frontend d'un lloc web</li>
 </ol>
