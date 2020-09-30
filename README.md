@@ -1,5 +1,5 @@
 # 2DG-2021
-[www -> Sistemes de representació avançada 2020/2021](https://arquesm.github.io/2DG-2021/)
+[Sistemes de representació avançada 2020/2021](https://arquesm.github.io/2DG-2021/)
 
 Escola d'Art i Superior de Disseny d'Alcoi
 
