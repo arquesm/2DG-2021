@@ -54,4 +54,4 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 ## Treball autònom
 
-* FreecodeCamp. Responsive Web Design Certification. HTML & CSS
+* [FreecodeCamp](https://www.freecodecamp.org/learn). Responsive Web Design Certification. HTML & CSS
