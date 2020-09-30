@@ -3,6 +3,8 @@ Sistemes de representació avançada 2020/2021
 
 Escola d'Art i Superior de Disseny d'Alcoi
 
+Magda Arques Castelló - arquesm@easdalcoi.es 
+
 ## Alumnes
 
 ### Grup A
@@ -42,3 +44,14 @@ Escola d'Art i Superior de Disseny d'Alcoi
 * Rovira Mengual, Josep
 * Torrecillas Garrido, Marina
 * Vicedo Rovira, Andreu
+
+## Ferramentes a utilitzar
+
+* Editor de codi. [Brackets](http://brackets.io/)
+* Programari de disseny i prototipat web i apps. [AdobeXD](https://www.adobe.com/es/products/xd.html)
+* Plataforma [github](https://github.com/) per adjuntar els arxius.
+
+
+## Treball autònom
+
+* FreecodeCamp. Responsive Web Design Certification. HTML & CSS
