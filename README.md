@@ -52,6 +52,6 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 * Plataforma [github](https://github.com/) per adjuntar els arxius.
 
 
-## Treball autònom
+## Activitats a realitzar
 
 * [FreecodeCamp](https://www.freecodecamp.org/learn). Responsive Web Design Certification. HTML & CSS
