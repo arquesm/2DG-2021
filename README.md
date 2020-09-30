@@ -47,8 +47,8 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 ## Ferramentes a utilitzar
 
-* Editor de codi. [Brackets](http://brackets.io/)
-* Programari de disseny i prototipat web i apps. [AdobeXD](https://www.adobe.com/es/products/xd.html)
+* Editor de codi. [Brackets](http://brackets.io/). Instal·lació d'extensions.
+* Programari de disseny i prototipat web i apps. [AdobeXD](https://www.adobe.com/es/products/xd.html). Instal·lació d'extensions.
 * Plataforma [github](https://github.com/) per adjuntar els arxius.
 
 
