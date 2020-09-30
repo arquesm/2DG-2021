@@ -7,14 +7,15 @@ Escola d'Art i Superior de Disseny d'Alcoi
 
 ### Grup A
 * Almendros Gil, Rubén
+* Alonso	Zaluendo,	Lide
 * Cambra Donat, Henar
 * Dorne i Vila, Bàrbara
-* García Pérez, Mariola
 * Gisbert Guillem, Alba
 * González Bordonado, Marina
 * González Giner, Alba
 * Mahiques Pla, Miriam
 * Milán Pastor, Pablo
+* Mata Rodríguez, Kevin
 * Moreno Arrones, Laura
 * Poveda Pérez, Javier
 * Riaza Peidro, Laura
@@ -25,18 +26,18 @@ Escola d'Art i Superior de Disseny d'Alcoi
 
 
 ### Grup B
-* Alonso	Zaluendo,	Lide
+
 * Andrango Llivisupa, Cynthia
 * Buján Ramos, Sara
 * Català Molina, Jordi
 * Fayos Carmona, Andrea
 * García LLedó, Luis
+* García Pérez, Mariola
 * Hernández García, Elena
 * Iniesta Lucas, Rodrigo
 * Leal Pérez, Andrea
 * Llopis Alejandre, Eva
 * Maciá García, Laura
-* Mata Rodríguez, Kevin
 * Maciá García, Laura
 * Rovira Mengual, Josep
 * Torrecillas Garrido, Marina
