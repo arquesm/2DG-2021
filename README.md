@@ -48,6 +48,7 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 * Editor de codi. [Brackets](http://brackets.io/). Instal·lació d'extensions.
 * Programari de disseny i prototipat web i apps. [AdobeXD](https://www.adobe.com/es/products/xd.html). Instal·lació d'extensions.
+* [Adobe Dimension](https://www.adobe.com/es/products/dimension.html), maquetació i croquitatció en 3d.
 * Plataforma [github](https://github.com/) per adjuntar els arxius.
 
 
