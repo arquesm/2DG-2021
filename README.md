@@ -17,13 +17,14 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 * González Giner, Alba
 * Mahiques Pla, Miriam
 * Milán Pastor, Pablo
-* Mata Rodríguez, Kevin
 * Moreno Arrones, Laura
 * Poveda Pérez, Javier
 * Riaza Peidro, Laura
 * Richart Olcina, Lara
+* Iniesta Lucas, Rodrigo
 * Sánchez Campos, Marta
 * Santamaría Orquín, Pau
+* Torrecillas Garrido, Marina
 * Vera Blasco, Helena
 
 
@@ -36,12 +37,11 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 * García LLedó, Luis
 * García Pérez, Mariola
 * Hernández García, Elena
-* Iniesta Lucas, Rodrigo
 * Leal Pérez, Andrea
 * Llopis Alejandre, Eva
 * Maciá García, Laura
+* Mata Rodríguez, Kevin
 * Rovira Mengual, Josep
-* Torrecillas Garrido, Marina
 * Vicedo Rovira, Andreu
 
 ## Ferramentes a utilitzar
