@@ -9,7 +9,6 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 ### Grup A
 * Almendros Gil, Rubén
-* Alonso	Zaluendo,	Lide
 * Cambra Donat, Henar
 * Dorne i Vila, Bàrbara
 * Gisbert Guillem, Alba
@@ -29,7 +28,7 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 
 
 ### Grup B
-
+* Alonso	Zaluendo,	Lide
 * Andrango Llivisupa, Cynthia
 * Buján Ramos, Sara
 * Català Molina, Jordi
