@@ -54,6 +54,7 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 ## Activitats a realitzar
 
 * [FreecodeCamp](https://www.freecodecamp.org/learn). Responsive Web Design Certification. HTML & CSS
+* [Material app arbres autoctons](https://drive.google.com/file/d/1NUSN25QdwWHvVBtRdSvF9cEallbrUVcH/view?usp=sharing)
 
 ## Projectes a realitzar
 
