@@ -50,6 +50,8 @@ Magda Arques Castelló - arquesm@easdalcoi.es
 * [Adobe Dimension](https://www.adobe.com/es/products/dimension.html), maquetació i croquitatció en 3d.
 * Plataforma [github](https://github.com/) per adjuntar els arxius.
 
+* [ui/ux models animation](https://drive.google.com/file/d/1ZDZSieww9V-UFRfJZo_5yL5vZTVPH62F/view?usp=sharing)
+
 
 ## Activitats a realitzar
 
